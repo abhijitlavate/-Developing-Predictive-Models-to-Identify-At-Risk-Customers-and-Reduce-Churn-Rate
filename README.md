@@ -1,5 +1,7 @@
 # -Developing-Predictive-Models-to-Identify-At-Risk-Customers-and-Reduce-Churn-Rate
 # 📊 Project: Developing Predictive Models to Identify At-Risk Customers and Reduce Churn Rate
+ ![Customer Churn Analysis Dashboard](Customer_Churn_Analysis.pbixCustomer_Churn_Analysis.pbix)
+
 
 ## 🧠 Problem Statement
 
